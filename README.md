@@ -3,7 +3,7 @@
 
 
 - 📫 How to reach me **LinkedIn: https://www.linkedin.com/in/mohammed-mainul-islam-naym-1325591a1/**
-- 📄 Know about more about me Resume: [https://drive.google.com/file/d/1e3zAFDz_5nBp2uXHKI1fLFXqJjSl10cH/view?usp=sharing](https://drive.google.com/file/d/1e3zAFDz_5nBp2uXHKI1fLFXqJjSl10cH/view?usp=sharing)
+- 📄 Know more about me Resume: [https://drive.google.com/file/d/1e3zAFDz_5nBp2uXHKI1fLFXqJjSl10cH/view?usp=sharing](https://drive.google.com/file/d/1e3zAFDz_5nBp2uXHKI1fLFXqJjSl10cH/view?usp=sharing)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mainul7669?tab=repositories](https://github.com/Mainul7669?tab=repositories)
 
