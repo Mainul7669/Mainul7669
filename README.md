@@ -8,12 +8,12 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Mainul7669?tab=repositories](https://github.com/Mainul7669?tab=repositories)
 
 
--🌱 Learning **Next JS and Typescript** to enhance my skill set. 
--💪 My strength in rapid responsive Designing.
--🎨 I can design amazing layouts using BootStrap, and tailwind Styled Components Sass.
--📝 Actively listen to customers' requests, confirming full understanding before addressing concerns.
--💻 Plan website development, converting mockups into usable web presence with HTML, React JS, Redux, and JSON coding.
--🔨 Convert graphic designs to usable web images using React JS.
+- 🌱 Learning **Next JS and Typescript** to enhance my skill set. 
+- 💪 My strength in rapid responsive Designing.
+- 🎨 I can design amazing layouts using BootStrap, and tailwind Styled Components Sass.
+- 📝 Actively listen to customers' requests, confirming full understanding before addressing concerns.
+- 💻 Plan website development, converting mockups into usable web presence with HTML, React JS, Redux, and JSON coding.
+- 🔨 Convert graphic designs to usable web images using React JS.
 
 
 <h3 align="left">Connect with me:</h3>
@@ -24,4 +24,4 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>   </p>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>   </p>
