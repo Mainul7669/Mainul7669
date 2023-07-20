@@ -8,18 +8,19 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Mainul7669?tab=repositories](https://github.com/Mainul7669?tab=repositories)
 
 
-🌱 Learning **Next JS and Typescript** to enhance my skill set. 
-💪 My strength in rapid responsive Designing.
-🎨 I can design amazing layouts using BootStrap, and tailwind Styled Components Sass.
-📝 Actively listen to customers' requests, confirming full understanding before addressing concerns.
-💻 Plan website development, converting mockups into usable web presence with HTML, React JS, Redux, and JSON coding.
-🔨 Convert graphic designs to usable web images using React JS.
+-🌱 Learning **Next JS and Typescript** to enhance my skill set. 
+-💪 My strength in rapid responsive Designing.
+-🎨 I can design amazing layouts using BootStrap, and tailwind Styled Components Sass.
+-📝 Actively listen to customers' requests, confirming full understanding before addressing concerns.
+-💻 Plan website development, converting mockups into usable web presence with HTML, React JS, Redux, and JSON coding.
+-🔨 Convert graphic designs to usable web images using React JS.
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohammed-mainul-islam-naym-1325591a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed-mainul-islam-naym-1325591a1" height="30" width="40" /></a>
 <a href="https://instagram.com/maeenul_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maeenul_" height="30" width="40" /></a>
+<a href="https://discord.gg/mohammedmainulislamnaym" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mohammedmainulislamnaym" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
