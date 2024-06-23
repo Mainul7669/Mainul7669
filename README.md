@@ -1,7 +1,7 @@
 <h1 align="center"> 👋, I'm Mohammed Mainul Islam Naym</h1>
 <h3 align="center">A passionate MERN Stack developer.</h3>
 
-- 📄 Know more about me <a href="https://drive.google.com/file/d/1SFbMbj5OvgxCaYuK5PtUGnIzt-45btBi/view"> Resume </a> 
+- 📄 Know more about me <a href="https://drive.google.com/file/d/11ZqYmZKM7NkJ51vY9zl_ihhbQ0QHWXRg/view?usp=sharing"> Resume </a> 
 
 - 🌱 Learning **Next JS and Typescript** to enhance my skill set. 
 - 💪 My strength in rapid responsive Designing.
